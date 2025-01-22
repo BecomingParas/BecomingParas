@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=becomingparas&show_icons=true&locale=en" alt="becomingparas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=becomingparas&" alt="becomingparas" /></p>
+
