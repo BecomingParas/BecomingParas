@@ -28,4 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BecomingParas&show_icons=true&locale=en&layout=compact" alt="BecomingParas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasnever&show_icons=true&locale=en" alt="parasnever" /></p>
