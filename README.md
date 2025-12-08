@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/paras-sarvashrestha-37a333266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paras-sarvashrestha-37a333266/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paras-sarvashrestha-37a333266" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paras-sarvashrestha-37a333266/" height="30" width="40" /></a>
 <a href="https://instagram.com/becomingparas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="becomingparas" height="30" width="40" /></a>
 </p>
 
