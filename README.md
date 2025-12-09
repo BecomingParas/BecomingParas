@@ -39,7 +39,7 @@ const paras = {
 📞 Like to meet me?
 Pick a slot to chat about engineering, API architecture, or collaborations:
 
-<p align="center"> <a href="https://calendly.com/paras-shrestha/30min" target="_blank"> <img width="500" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" /> </a> </p>
+<p align="center"> <a href="https://calendly.com/parasshresthanever/30min" target="_blank"> <img width="500" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" /> </a> </p>
 📊 GitHub Analytics
 🔥 Streaks
 <p align="center"> <img src="https://streak-stats.demolab.com?user=BecomingParas&theme=tokyonight&hide_border=true" /> </p>
