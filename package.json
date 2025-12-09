@@ -1,0 +1,10 @@
+{
+  "name": "paras",
+  "version": "1.0.1",
+  "description": "NPX business card for Paras Shrestha",
+  "bin": {
+    "paras": "./index.js"
+  },
+  "author": "Paras Shrestha",
+  "license": "MIT"
+}
