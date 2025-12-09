@@ -1,16 +1,20 @@
 #!/usr/bin/env node
+
 console.log(`
-Hi there! I'm Paras Shrestha 👋
+═══════════════════════════════════════════════
+        PARAS SHRESTHA – FULLSTACK ENGINEER
+═══════════════════════════════════════════════
 
-Fullstack Developer | GraphQL & API Enthusiast
+🔹 Specialties:
+   - TypeScript, Node.js, React, Next.js
+   - GraphQL, REST, Distributed APIs
+   - Prisma, MongoDB, MySQL, Redis
+   - Microservices, CI/CD, Docker
 
-Technologies:
-  Frontend: React, Next.js, TailwindCSS, shadcn/ui
-  Backend: Node.js, Express, NestJS
-  Databases: MongoDB, MySQL, PostgreSQL, Redis
-  DevOps: Docker, CI/CD, GitHub Actions
-  Cloud: AWS, Render, Vercel
-  Misc: WebSockets, REST APIs, GraphQL
+🔹 Social Links:
+   GitHub:     https://github.com/BecomingParas
+   LinkedIn:   https://linkedin.com/in/paras-shrestha
+   Portfolio:  https://paras.dev
 
-Fun Fact: I code faster after a cup of coffee ☕
+═══════════════════════════════════════════════
 `);
