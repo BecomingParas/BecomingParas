@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://twitter.com/BecomingParas"><img src="https://img.shields.io/twitter/follow/BecomingParas?style=social"></a>
-  <a href="https://www.linkedin.com/in/paras-shrestha/"><img src="https://img.shields.io/badge/Paras%20Shrestha-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="[https://paras.dev](https://www.parasshrestha.com.np/)"><img src="https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paras-shrestha-37a333266/"><img src="https://img.shields.io/badge/Paras%20Shrestha-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.parasshrestha.com.np"><img src="https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BecomingParas.BecomingParas" />
   <img src="https://github.com/BecomingParas/BecomingParas/workflows/Waka%20Readme/badge.svg" />
 </p>
