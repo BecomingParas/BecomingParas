@@ -52,7 +52,7 @@ Pick a slot to chat about engineering, API architecture, or collaborations:
 </p>
 
 📈 Stats
-<p align="center"> <img src="https://github-stats-1hle06evb-menu-2a8d524d.vercel.app/api?username=BecomingParas&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="images/stats.png" alt="GitHub Stats" width="600"/> </p>
+<p align="center"> <img src="https://github-stats-1hle06evb-menu-2a8d524d.vercel.app/api?username=BecomingParas&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="images/stats.png" alt="GitHub Stats" width="500"/> </p>
 🏆 GitHub Trophies
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=BecomingParas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> 
