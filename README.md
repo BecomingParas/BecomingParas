@@ -39,15 +39,31 @@ const paras = {
 📞 Like to meet me?
 Pick a slot to chat about engineering, API architecture, or collaborations:
 
-<p align="center"> <a href="https://calendly.com/parasshresthanever/30min" target="_blank"> <img width="500" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" /> </a> </p>
+<p align="center"> 
+  <a href="https://calendly.com/parasshresthanever/30min" target="_blank"> 
+    <img width="500" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" /> 
+  </a> 
+</p>
+
 📊 GitHub Analytics
 🔥 Streaks
-<p align="center"> <img src="https://streak-stats.demolab.com?user=BecomingParas&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=BecomingParas&theme=tokyonight&hide_border=true" /> 
+</p>
+
 📈 Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=BecomingParas&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BecomingParas&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> 
+  <img height="170" src="https://github-stats-1hle06evb-menu-2a8d524d.vercel.app/api?username=BecomingParas&show_icons=true&theme=tokyonight&hide_border=true" /> 
+  <img height="170" src="https://github-stats-1hle06evb-menu-2a8d524d.vercel.app/api/top-langs?username=BecomingParas&layout=compact&theme=tokyonight&hide_border=true" /> 
+</p>
+
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BecomingParas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=BecomingParas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> 
+</p>
+
 🕒 WakaTime — Weekly Coding Breakdown
+
 <!--START_SECTION:waka--> <!--END_SECTION:waka-->
 🚀 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BecomingParas&theme=react-dark&hide_border=true" /> </p>
