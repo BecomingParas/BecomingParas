@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://twitter.com/BecomingParas"><img src="https://img.shields.io/twitter/follow/BecomingParas?style=social"></a>
-  <a href="https://www.linkedin.com/in/paras-shrestha/"><img src="https://img.shields.io/badge/Paras%20Shrestha-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://paras.dev"><img src="https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paras-shrestha-37a333266/"><img src="https://img.shields.io/badge/Paras%20Shrestha-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.parasshrestha.com.np"><img src="https://img.shields.io/badge/Website-46a2f1.svg?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BecomingParas.BecomingParas" />
   <img src="https://github.com/BecomingParas/BecomingParas/workflows/Waka%20Readme/badge.svg" />
 </p>
@@ -20,10 +20,7 @@
 
 ## 👨‍💻 About Me
 
-```bash
-npx paras
-js
-Copy code
+```js
 const paras = {
   pronouns: "He/Him",
   code: ["TypeScript", "JavaScript", "Python"],
@@ -34,31 +31,41 @@ const paras = {
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
     devops: ["Docker", "CI/CD", "GitHub Actions"],
     cloud: ["AWS", "Render", "Vercel"],
-    misc: ["WebSockets", "REST APIs", "GraphQL"]
+    misc: ["WebSockets", "REST APIs", "GraphQL"],
   },
-  funFact: "I code faster after a cup of coffee ☕"
+  funFact: "I code faster after a cup of coffee ☕",
 };
+```
 📞 Like to meet me?
-Pick a slot to chat about web dev, fullstack architecture, or project collaborations:
+Pick a slot to chat about engineering, API architecture, or collaborations:
 
-<p align="center"> <a href="https://calendly.com/paras-shrestha/30min" target="_blank"> <img width="500" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" /> </a> </p>
+<p align="center"> 
+  <a href="https://calendly.com/parasshresthanever/30min" target="_blank"> 
+    <img width="500" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" /> 
+  </a> 
+</p>
+
 📊 GitHub Analytics
 🔥 Streaks
-<p align="center"> <img src="https://streak-stats.demolab.com?user=BecomingParas&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=BecomingParas&theme=tokyonight&hide_border=true" /> 
+</p>
+
 📈 Stats
 <p align="center"> <img src="https://github-stats-1hle06evb-menu-2a8d524d.vercel.app/api?username=BecomingParas&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="images/stats.png" alt="GitHub Stats" width="600"/> </p>
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BecomingParas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=BecomingParas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> 
+</p>
+
 🕒 WakaTime — Weekly Coding Breakdown
-txt
-Copy code
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-🚀 Recent Activity Graph (Dynamic)
+
+<!--START_SECTION:waka--> <!--END_SECTION:waka-->
+🚀 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BecomingParas&theme=react-dark&hide_border=true" /> </p>
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,graphql,redis,mysql,postgres,mongodb,aws,docker,vercel,linux,git,github,py" /> </p>
 🎯 Vision
-I aim to architect distributed systems, scalable API infrastructures, and production-ready fullstack platforms using modern tooling like GraphQL, Prisma, Nx Monorepos, and cloud-native automation.
+I aim to architect distributed systems, scalable API infrastructures, and production-grade fullstack platforms using modern tooling such as GraphQL, Prisma, Nx Monorepos, and cloud-native automation.
 
 <h3 align="center">⭐ If you like my work, consider starring my repositories!</h3> ```
