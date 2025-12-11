@@ -46,7 +46,7 @@ Pick a slot to chat about web dev, fullstack architecture, or project collaborat
 🔥 Streaks
 <p align="center"> <img src="https://streak-stats.demolab.com?user=BecomingParas&theme=tokyonight&hide_border=true" /> </p>
 📈 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BecomingParas&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BecomingParas&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+<p align="center"> <img src="https://github-stats-1hle06evb-menu-2a8d524d.vercel.app/api?username=BecomingParas&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="images/stats.png" alt="GitHub Stats" width="600"/> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BecomingParas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </p>
 🕒 WakaTime — Weekly Coding Breakdown
