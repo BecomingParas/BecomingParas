@@ -60,7 +60,7 @@ paras@github:~$ neofetch
 ```typescript
 class Developer {
   name: string = "Paras Shrestha";
-  location: string = "Pātan, Nepal 🇳🇵";
+  location: string = "Butwal, Nepal 🇳🇵";
   pronouns: string = "He/Him";
   
   languages: string[] = [
