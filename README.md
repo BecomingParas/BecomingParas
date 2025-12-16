@@ -53,7 +53,7 @@
 paras@github:~$ neofetch
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right"  alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 About Me
 
@@ -151,7 +151,7 @@ paras@github:~$ git log --stat --graph --oneline
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BecomingParas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BecomingParas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=15" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=BecomingParas&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
 
@@ -166,29 +166,6 @@ paras@github:~$ ./contribution_graph.sh --year 2025
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BecomingParas&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
-
----
-
-```bash
-paras@github:~$ trophy --display --all
-```
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=BecomingParas&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
-```bash
-paras@github:~$ tail -f /var/log/wakatime.log
-```
-
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -248,19 +225,7 @@ Want to discuss tech, APIs, or potential collaborations?
 
 ---
 
-```bash
-paras@github:~$ htop
-```
 
-## 📈 Contribution Metrics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=BecomingParas&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF)
-
-</div>
-
----
 
 ```bash
 paras@github:~$ fortune | cowsay
