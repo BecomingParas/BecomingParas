@@ -147,17 +147,9 @@ paras@github:~$ git log --stat --graph --oneline
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BecomingParas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BecomingParas&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BecomingParas&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/
-?username=BecomingParas
-&layout=compact
-&theme=tokyonight
-&hide_border=true
-&langs_count=10
-&cache_seconds=1800" />
 
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=BecomingParas&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
